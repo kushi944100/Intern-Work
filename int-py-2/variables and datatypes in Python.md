@@ -82,7 +82,7 @@ b=c=20 #multiple variable assignment
 <b>Float</b> value is represented by the float class. It is a real number with floating point representation. It is specified by a decimal point. Optionally, the character e or E followed by a positive or negative integer may be appended to specify scientific notation. 
 </p>
 <p align="justify">
-<b>Complex Number</b> is represented by the complex class. It is specified as (real part) + (imaginary part)j. If for example, the complex number is 5+5j, real part is 5 and the imaginary part is 5 again.
+<b>Complex Number</b> is represented by the complex class. It is specified as `(real part) + (imaginary part)j`. If for example, the complex number is 5+5j, real part is 5 and the imaginary part is 5 again.
 </p>
 <p align="justify">
 Like many other popular programming languages, <b>strings</b> in Python are arrays of bytes representing unicode characters. However, Python does not have a character data type, a single character is simply a string with a length of 1. Square brackets can be used to access elements of the string.
